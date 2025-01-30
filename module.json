@@ -1,7 +1,7 @@
 {
     "title": "Milder Critical Hit & Fumble Cards",
     "description": "Applies a debuff on natural 20 (to the target) and natural 1 (to the attacker) in PF2e.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "compatibility": {
       "minimum": "11", "maximum": "12",
       "verified": "12"
