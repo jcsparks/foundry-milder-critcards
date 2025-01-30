@@ -13,5 +13,5 @@
       { "name": "jcsparks", "url": "https://github.com/jcsparks/foundry-milder-critcards" }
     ],
     "manifest": "https://github.com/jcsparks/foundry-milder-critcards/module.json",
-    "download": "https://github.com/jcsparks/foundry-milder-critcards/archive/main.zip"
+    "download": "https://github.com/jcsparks/foundry-milder-critcards/archive/refs/tags/1.0.0.zip"
   }
