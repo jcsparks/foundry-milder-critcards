@@ -1,0 +1,17 @@
+{
+    "name": "milder-critcards",
+    "title": "Milder Critical Hit & Fumble Cards",
+    "description": "Applies a debuff on natural 20 (to the target) and natural 1 (to the attacker) in PF2e.",
+    "version": "1.0.0",
+    "compatibility": {
+      "minimum": "11", "maximum": "12",
+      "verified": "12"
+    },
+    "scripts": ["scripts/main.js"],
+    "esmodules": [],
+    "authors": [
+      { "name": "jcsparks", "url": "https://github.com/jcsparks/foundry-milder-critcards" }
+    ],
+    "manifest": "https://github.com/jcsparks/foundry-milder-critcards/module.json",
+    "download": "https://github.com/jcsparks/foundry-milder-critcards/archive/main.zip"
+  }
