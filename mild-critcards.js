@@ -11,9 +11,11 @@ Hooks.on("createChatMessage", async (msg) => {
   
     const target = Array.from(game.user.targets)[0];
   
-    if (rollTotal === 20 && target) {
+    //if (rollTotal === 20 && target) {
+    if (rollTotal > 10 && target) {
       applyRandomDebuff(target.actor, "Target", msg);
-    } else if (rollTotal === 1) {
+    //} else if (rollTotal === 1) {
+    } else if (rollTotal < 10) {
       applyRandomDebuff(actor, "Attacker", msg);
     }
   });
